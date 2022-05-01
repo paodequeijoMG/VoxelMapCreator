@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "Libraries/*.js",
+    "c:\\Users\\Diogo Azevedo\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
+, "scripts/Canvas/Voxel_map_creation.js", "scripts/Objects/Classes_obj.js", "Scripts/Color_picker.js"  ]
+}
