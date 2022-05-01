@@ -1,0 +1,10 @@
+.GUI_container3{
+    /* border-style: solid;
+    border-color: rgb(95, 95, 95) ;
+    border-width: 0px 0 5px 0; */
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
