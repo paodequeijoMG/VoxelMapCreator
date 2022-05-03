@@ -1,7 +1,7 @@
 # VoxelMapCreator
 Hello,
  
-   I'm studying to be a full stack-developer, and for that I create this "app" (https://editor.p5js.org/ChesseBread/sketches/4EH2fC4Xx) to be use as a map creator for my future project that is a strategic turn base game. 
+   I'm studying to be a full stack-developer, and for that I create this "app" (https://editor.p5js.org/ChesseBread/full/4EH2fC4Xx) to be use as a map creator for my future project that is a strategic turn base game. 
 Having the opportunity to build your own map, it gives more freedom for the players to cultivate their creativity and build new ways to play the game.
 
    It's far from done, but I would like to anybody who clicked on this post, to try to build your own map, share in the comments, and give me feedback on what can be improved. 
