@@ -6,6 +6,8 @@ Having the opportunity to build your own map, it gives more freedom for the play
 
    It's far from done, but I would like to anybody who clicked on this post, to try to build your own map, share in the comments, and give me feedback on what can be improved. 
 
+User manual: https://discourse.processing.org/t/voxel-map-creator/36670
+
 Updates ahead:
 
 - Possibility to choose the quantity of voxels. 
